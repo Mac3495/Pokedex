@@ -1,16 +1,12 @@
-# pokedex
+# Pokedex
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project was create with Flutter version: 3.3.5 on channel stable
+and Tools • Dart 2.18.2 • DevTools 2.15.0
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Marcelo Torrez Azuga
+La Paz - Bolivia
+2022
